@@ -1,17 +1,16 @@
 # Projetos de Machine Learning
 
-[![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-brightgreen.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/colab-ready-yellow.svg)](https://colab.research.google.com/)
 
-Repositório dedicado ao estudo aprofundado, implementação prática e experimentação de algoritmos de **Machine Learning** (aprendizado supervisionado e não supervisionado). As implementações cobrem desde a fundamentação matemática pura ("do zero", sem bibliotecas prontas) até pipelines avançados com Scikit-Learn, visão computacional com OpenCV e simulações estocásticas.
+Repositório dedicado aos exercícios e projetos práticos de **Machine Learning** desenvolvidos durante a faculdade, cobrindo aprendizado supervisionado e não supervisionado. As atividades vão desde a implementação manual de algoritmos ("do zero", sem bibliotecas prontas) até o uso prático de Scikit-Learn, visão computacional com OpenCV e simulações.
 
 ---
 
 ## 📌 Índice
 
-- [Visão Geral dos Módulos](#-visão-geral-dos-módulos)
+- [Visão Geral das Aulas](#-visão-geral-das-aulas)
 - [Funcionalidades e Tópicos Abordados](#-funcionalidades-e-tópicos-abordados)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Pré-requisitos e Dependências](#-pré-requisitos-e-dependências)
@@ -19,13 +18,12 @@ Repositório dedicado ao estudo aprofundado, implementação prática e experime
   - [Opção 1: Diretamente no Google Colab](#opção-1-diretamente-no-google-colab-sem-instalação-local)
   - [Opção 2: Localmente via Jupyter](#opção-2-localmente-via-jupyter-notebook)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Licença](#-licença)
 
 ---
 
-## 📚 Visão Geral dos Módulos
+## 📚 Visão Geral das Aulas
 
-Cada notebook representa um laboratório independente e autodirigido com foco em um conceito ou família de algoritmos:
+Cada notebook contém os exercícios práticos e experimentos desenvolvidos para uma aula da faculdade:
 
 | Notebook | Tópico Central | Algoritmos / Técnicas | Executar |
 | :--- | :--- | :--- | :---: |
@@ -135,12 +133,6 @@ Uma aba abrirá no seu navegador. Escolha qualquer notebook `AulaX_MachineLearni
 - **[OpenCV](https://opencv.org/)** — Processamento de imagens digitais.
 - **[TensorFlow / Keras](https://www.tensorflow.org/)** — Obtenção do benchmark MNIST.
 - **[KaggleHub](https://github.com/Kaggle/kagglehub)** — Carregamento automático de datasets do Kaggle.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
